@@ -10,10 +10,11 @@
   ],
   "rules": {
       ////////// Possible Errors //////////
-      "prefer-arrow-callback":0,
-      "space-before-function-paren":0,
+      "no-console":0,
+      "func-names":0,
+      "no-blank-lines":0,
       "padded-blocks":0,
-      "func-names":0
+      "no-multiple-empty-lines":0
 
 
     }
